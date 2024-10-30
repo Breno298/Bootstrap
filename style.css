@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#logo{
+    border-radius: 50%;
+}
+.carousel-inner{
+    height: 70vh;
+    width: 100vw;
+}
+.card-group{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: bold solid;
+    gap: 10px;
+    margin: 50px;
+    padding: 20px;
+    height: 70vh;
+    width: 90vw;
+}
